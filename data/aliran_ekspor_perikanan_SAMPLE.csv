@@ -1,0 +1,24 @@
+# CONTOH STRUKTUR DATA -- BUKAN DATA BPS ASLI. Ganti dengan data ekspor
+# komoditas perikanan Indonesia menurut negara tujuan dari BPS Statistik
+# Ekspor Impor (kode HS 03 - ikan dan produk perikanan), tahun pilihanmu.
+# Sumber: cari "Ekspor menurut Kode HS dan Negara Tujuan" di bps.go.id atau
+# webAPI BPS. Minimal 15 negara tujuan.
+negara_tujuan,volume_ekspor_ton,nilai_ekspor_ribu_usd
+Amerika Serikat,85000,420000
+Tiongkok,72000,310000
+Jepang,61000,295000
+Vietnam,40000,150000
+Thailand,33000,120000
+Malaysia,28000,95000
+Korea Selatan,25000,88000
+Singapura,21000,80000
+Taiwan,18000,65000
+Hong Kong,15000,54000
+Belanda,13000,49000
+Italia,11000,41000
+Inggris,10000,38000
+Australia,9000,34000
+Kanada,8000,30000
+Arab Saudi,7000,27000
+Filipina,6000,22000
+Uni Emirat Arab,5000,19000

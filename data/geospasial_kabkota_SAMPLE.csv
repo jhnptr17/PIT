@@ -1,0 +1,31 @@
+# DATA ASLI BPS (contoh parsial) -- Produksi Perikanan Tangkap Laut Kab/Kota
+# Provinsi Sulawesi Selatan, 2021, satuan ton.
+# Sumber: BPS Provinsi Sulawesi Selatan - "Production of Fish Capture by
+# Regency/Municipality and Type of Captures (Tons), 2021"
+# https://sulsel.bps.go.id/en/statistics-table/2/MTc2OSMy/produksi-perikanan-tangkap-menurut-kabupaten-kota-dan-jenis-penangkapan.html
+# diakses 2 Oktober 2026.
+# INI BARU 20 DARI ~500 KAB/KOTA -- lengkapi dgn tabel sejenis dari 33
+# provinsi lain (link pola sama, ganti kode provinsi di URL BPS) sebelum
+# submit final. Tambahkan kolom kode_wilayah (kode BPS 4-5 digit) untuk
+# join ke GeoJSON batas kab/kota.
+kode_wilayah,kabupaten_kota,provinsi,produksi_laut_ton,produksi_perairan_umum_ton,produksi_total_ton
+7306,Kepulauan Selayar,Sulawesi Selatan,20885,0,20885
+7302,Bulukumba,Sulawesi Selatan,53830,0,53830
+7303,Bantaeng,Sulawesi Selatan,6256,0,6256
+7304,Jeneponto,Sulawesi Selatan,17846,0,17846
+7305,Takalar,Sulawesi Selatan,17699,0,17699
+7301,Gowa,Sulawesi Selatan,547,607,1154
+7312,Sinjai,Sulawesi Selatan,37761,0,37761
+7309,Maros,Sulawesi Selatan,14960,4617,19577
+7310,Pangkep,Sulawesi Selatan,20714,0,20714
+7308,Barru,Sulawesi Selatan,19867,0,19867
+7311,Bone,Sulawesi Selatan,54544,131,54675
+7313,Soppeng,Sulawesi Selatan,0,2988,2988
+7314,Wajo,Sulawesi Selatan,23910,29742,53652
+7315,Sidrap,Sulawesi Selatan,0,2693,2693
+7316,Pinrang,Sulawesi Selatan,15110,254,15364
+7317,Enrekang,Sulawesi Selatan,0,34,34
+7318,Luwu,Sulawesi Selatan,18325,8,18333
+7319,Tana Toraja,Sulawesi Selatan,0,21,21
+7320,Luwu Utara,Sulawesi Selatan,1721,192,1913
+7322,Luwu Timur,Sulawesi Selatan,9767,270,10037
